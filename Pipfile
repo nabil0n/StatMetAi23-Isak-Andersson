@@ -11,8 +11,9 @@ statsmodels = "*"
 seaborn = "*"
 matplotlib = "*"
 ipykernel = "*"
-plotly-express = "*"
-plotly = "==5.18.0"
+plotly = "*"
+"plotly.express" = "*"
+nbformat = "*"
 
 [dev-packages]
 
